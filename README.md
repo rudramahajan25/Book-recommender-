@@ -1,4 +1,4 @@
-📚 Semantic Book Recommender
+ 📚 Semantic Book Recommender
 A semantic, content-based book recommendation system that understands what you want to read and how you want the book to feel.
 It uses modern text embeddings, a custom vector store, and tone-based filtering to deliver highly relevant book suggestions from natural-language queries.
 
@@ -47,8 +47,7 @@ This will launch the Gradio Web UI in your browser
 ![Dashboard UI](media/Dashboard_UI.png)
 ![Search Example](media/Example.png)
 
-🎥 Demo Video
- ![DEMO](media/Demo.mov)
+
 🎯 Inspiration & Credits
 This project was inspired by:
 📌 “LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)”
