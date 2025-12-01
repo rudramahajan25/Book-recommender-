@@ -42,9 +42,9 @@ media/
    demo.gif
 Example in README:
 ## 📸 Demo Preview
-![Dashboard UI](media/dashboard_ui.png)
+![Dashboard UI](media/Dashboard_UI.png)
 
-![Search Example](media/preview.png)
+![Search Example](media/example.png)
 If you upload videos to GitHub releases or repo assets, use this:
 https://github.com/rudramahajan25/Book-recommender-/assets/YOUR_ASSET_ID
 🎯 Inspiration & Credits
