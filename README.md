@@ -48,7 +48,7 @@ This will launch the Gradio Web UI in your browser
 ![Search Example](media/Example.png)
 
 🎥 Demo Video
-https://github.com/rudramahajan25/Book-recommender-/media/Demo.mov
+ ![DEMO](media/Demo.mov)
 🎯 Inspiration & Credits
 This project was inspired by:
 📌 “LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)”
